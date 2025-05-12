@@ -32,20 +32,12 @@ A simple and interactive **Streamlit-based web application** that helps users lo
 
 ---
 
-## 📷 Screenshots
-
-| User Input | Result Table | Map Output |
-|------------|--------------|------------|
-| ![Input](screenshots/input.png) | ![Table](screenshots/table.png) | ![Map](screenshots/map.png) |
-
----
-
 📌 Use Case
 
-Ideal for tourists, pub-goers, and delivery services who need to find the closest pub in unfamiliar areas quickly and accurately.
+- Ideal for tourists, pub-goers, and delivery services who need to find the closest pub in unfamiliar areas quickly and accurately.
 
 ---
 
 🙌 Acknowledgements
-	•	Dataset: data.gov.uk
-	•	Inspired by geospatial location-based apps and real-world logistics use cases.
+- Dataset: data.gov.uk
+- Inspired by geospatial location-based apps and real-world logistics use cases.
